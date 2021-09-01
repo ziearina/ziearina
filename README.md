@@ -10,8 +10,6 @@ Improving on:
 Still getting use to:
 * JavaScript
 * PHP
-
-Learning:
 * JAVA
 
 There's a lot of things I'm lacking at, but gotta work that ass off to become a better coder each day.
