@@ -10,7 +10,7 @@ My goal is to be a Software Engineer | Full Stack Web Developer 💻!
 I love the whole process of developing websites, -I especially love coding the front-end🎨-! Even though my passion leaned towards software engineering, I would love to explore more techs. Robotics would be one of it(we'll see). 
 
 
-#👩🏻‍💻 I'm currently working on
+## 👩🏻‍💻 I'm currently working on
 - my diploma-days projects: redeveloped it to web app --> one of it is [Internship Application](https://github.com/ziearina/Internship-Application)
 - an improve Internship Application: [asIntern](https://github.com/ziearina/asInterns)
 - and other 4 more projects...
@@ -23,12 +23,12 @@ I love the whole process of developing websites, -I especially love coding the f
 -will learn Flutter soon-
 
 
-### Connect with me!
+## 📫 Connect with me!
 <p align="left">
-<a href="https://discordapp.com/users/160232471198302208/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="zie#1032" height="30" width="40" /></a>
+  <a href="https://discordapp.com/users/160232471198302208/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Discord_(software)/Discord_(software)-Logo-Color-Dark-Background-Dark-Background-Logo.wine.svg" alt="zie#1032" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/zeetta-a/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="zie#1032" height="30" width="40" /></a>
   
 </p>
-- 📫 [Connect](https://www.linkedin.com/in/zeetta-a/) with me!
 
 
 
