@@ -13,6 +13,7 @@ I love the whole process of developing websites, -I especially love coding the f
 ## 👩🏻‍💻 I'm currently working on
 - my diploma-days projects: redeveloped it to web app --> one of it is [Internship Application](https://github.com/ziearina/Internship-Application)
 - an improve Internship Application: [asIntern](https://github.com/ziearina/asInterns)
+- my portfolio
 - and other 4 more projects...
 💬 Please feel free to drop feedbacks!
 
