@@ -25,7 +25,7 @@ I love the whole process of developing websites, -I especially love coding the f
 
 ## 📫 Connect with me!
 <p align="left">
-  <a href="https://discordapp.com/users/160232471198302208/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Discord_(software)/Discord_(software)-Logo-Color-Dark-Background-Dark-Background-Logo.wine.svg" alt="zie#1032" height="30" width="40" /></a>
+  <a href="https://discordapp.com/users/160232471198302208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zie#1032" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/zeetta-a/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="zie#1032" height="30" width="40" /></a>
   
 </p>
