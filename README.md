@@ -7,7 +7,7 @@ My goal is to be a Software Engineer | Full Stack Web Developer 💻!
 </h2>
 
 
-I love developing websites, -I especially love coding the front-end🎨-! Even though my passion leaned towards software engineering, I would love to explore more techs. Robotics would be one of it(we'll see). 
+I love developing web applications, -I especially love coding the front-end🎨-! Even though my passion leaned towards software engineering, I would love to explore more techs. Robotics would be one of it(we'll see). 
 
 
 ## 👩🏻‍💻 I'm currently working on
